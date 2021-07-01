@@ -24,7 +24,7 @@ This is a fundamental Python course with focus of learning important programming
 | 7                              | OOP: inheritance, polymorphism, docstring              |
 | 8                              | repetition                                             |
 | 9                              | written exam                                           |
-<a id="fn1">1 </a> <sub>Study weeks are numbered from 1, and are usually not normal weeks [↩](#schedule)</sub>
+<a id="fn1">1 </a> <sub>Study weeks are numbered from 1 when the course starts, and are usually not normal weeks [↩](#schedule)</sub>
 
 </details>
 
@@ -36,7 +36,7 @@ When installing softwares, unless anything else is stated below, just click next
 
 <summary><b>Study week 1</b></summary>
 
-Setup
+Setup :wrench:
 
 - Download newest version of [Python here][pyt] and install it. Important to check :ballot_box_with_check: **add to path** in the installation. Make sure to have only **one** version of Python installed.
 
@@ -54,8 +54,8 @@ Setup
 
 [github]: https://github.com/
 
-Video guides
-- Learn [Git and GitHub :link:][git_tutorial] for version control and file storage
+Video guides :video_camera:
+- Learn [Git and GitHub][git_tutorial] for version control and file storage
 
 [git_tutorial]: https://www.youtube.com/watch?v=USjZcfj8yxE
 
@@ -70,10 +70,26 @@ Video guides
 [windows_path]: https://www.youtube.com/watch?v=dj5oOPaeIqI 
 [mac_path]: https://www.youtube.com/watch?v=PUIE7CPANfo
 
-Exercises
+- Learn [variables][variables] in Python
+- Learn [input][input] in Python
+
+[variables]: https://www.youtube.com/watch?v=Z1Yd7upQsXY&t=470s
+[input]: https://www.youtube.com/watch?v=4OX49nLNPEE
+
+Theory :book:
+- [Variables - w3schools][w3var]
+- [Input - w3schools][w3input]
+- [pipenv - Real Python][real_pipenv]
+
+[w3var]: https://www.w3schools.com/python/python_variables.asp
+[w3input]: https://www.w3schools.com/python/python_user_input.asp
+[real_pipenv]: https://realpython.com/pipenv-guide/
+
+Exercises :running:
 - Exercises can be found here (link)
 
 
-
-
 </details>
+
+
+[if_else]: https://www.youtube.com/watch?v=AWek49wXGzI&t=155s
