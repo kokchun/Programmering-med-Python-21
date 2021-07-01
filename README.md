@@ -10,17 +10,17 @@ This is a fundamental Python course with focus of learning important programming
   
 <summary>Click to see/hide schedule</summary>
 
-| Week | Contents                                          |
-| ---- | ------------------------------------------------- |
-| 33   | installation, git, vscode, pipenv, variables, I/O |
-| 34   | if, while, for                                    |
-| 35   | lists, random module                              |
-| 36   | lab                                               |
-| 37   | strings, funktioner                               |
-| 38   | felhantering, filhantering, dictonary             |
-| 39   | objektorienterad programmering                    |
-| 40   | repetition                                        |
-| 41   | written exam                                      |
+| Week | Contents                                               |
+| ---- | ------------------------------------------------------ |
+| 33   | installation, git, vscode, pipenv, variables, I/O      |
+| 34   | if, while, for, lists                                  |
+| 35   | random module, strings, functions                      |
+| 36   | lab                                                    |
+| 37   | exception handling, file handling, dictionary          |
+| 38   | OOP: class, object, attributes, properties, decorators |
+| 39   | OOP: inheritance, polymorphism, docstring              |
+| 40   | repetition                                             |
+| 41   | written exam                                           |
 
 </details>
 
@@ -30,7 +30,7 @@ This is a fundamental Python course with focus of learning important programming
 ### Week 33
 <details open>
 
-- Install newest version of [Python here][pyt]. Important to check ''add to path'' during the installation.    
+- Install newest version of [Python here][pyt]. Important to check :heavy_check_mark: **add to path** during the installation.    
 
 [pyt]: https://www.python.org/downloads/
 
