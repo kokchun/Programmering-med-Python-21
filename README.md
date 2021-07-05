@@ -5,8 +5,17 @@ This is a fundamental Python course with focus of learning important programming
 
 ## Contents
   - [Schedule](#schedule)
-  - [Resources](#resources)
+  - [Resources](#resources) <details> <summary> Study weeks </summary>
     - [Study week 1](#week1)
+    - [Study week 2](#week2)
+    - [Study week 3](#week3)
+    - [Study week 4](#week4)
+    - [Study week 5](#week5)
+    - [Study week 6](#week6)
+    - [Study week 7](#week7)
+    - [Study week 8](#week8)
+
+</details>
 
 ## Schedule
 
@@ -14,17 +23,17 @@ This is a fundamental Python course with focus of learning important programming
   
 <summary id="schedule">Click to see/hide schedule</summary>
 
-| Study week<sup>[1](#fn1)</sup> | Content                                                |
-| :----------------------------: | ------------------------------------------------------ |
-|               1                | installation, git, vscode, pipenv, variables, I/O      |
-|               2                | if, while, for, lists, lab 1                           |
-|               3                | random module, strings, functions                      |
-|               4                | lab                                                    |
-|               5                | exception handling, file handling, dictionary          |
-|               6                | OOP: class, object, attributes, properties, decorators |
-|               7                | OOP: inheritance, polymorphism, docstring              |
-|               8                | repetition                                             |
-|               9                | written exam                                           |
+| Study week<sup>[1](#fn1)</sup> | Content                                                     |
+| :----------------------------: | ----------------------------------------------------------- |
+|               1                | installation, git, vscode, variables, I/O, if, while, lab 1 |
+|               2                | for, lists, random module                                   |
+|               3                | strings, functions, pipenv, lab 2                           |
+|               4                | exception handling, file handling, dictionary, lab 2        |
+|               5                | OOP: class, object, attributes, properties, decorators      |
+|               6                | OOP: inheritance, polymorphism, docstring                   |
+|               7                | repetition                                                  |
+|               8                | written exam                                                |
+
 
 <a id="fn1">1 </a> <sub>Study weeks are numbered from 1 when the course starts, and are usually not normal weeks [↩](#schedule)</sub>
 
@@ -36,7 +45,7 @@ When installing softwares, unless anything else is stated below, just click next
 
 <details open>
 
-<summary><b id = "week1">Study week 1</b></summary>
+<summary id = "week1"><b>Study week 1</b></summary>
 
 Setup :wrench:
 
@@ -96,15 +105,14 @@ Exercises :running:
 
 <details>
 
-<summary><b>Study week 2</b></summary>
+<summary id = "week2"><b >Study week 2</b></summary>
 
 </details>
 
 
 <details>
 
-<summary><b>Study week 3</b></summary>
-
+<summary id = "week3"><b >Study week 3</b></summary>
 - Learn [pipenv][pipenv] to manage packages and environments
 
 [pipenv]: https://www.youtube.com/watch?v=6Qmnh5C4Pmo
@@ -115,20 +123,32 @@ Exercises :running:
 
 <details>
 
-<summary><b>Study week 4</b></summary>
+<summary id = "week4"><b >Study week 4</b></summary>
 
 </details>
 
 
 <details>
 
-<summary><b>Study week 5</b></summary>
+<summary id = "week5"><b >Study week 5</b></summary>
 
 </details>
 
 
 <details>
 
-<summary><b>Study week 6</b></summary>
+<summary id = "week6"><b >Study week 6</b></summary>
+
+</details>
+
+<details>
+
+<summary id = "week7"><b >Study week 7</b></summary>
+
+</details>
+
+<details>
+
+<summary id = "week8"><b >Study week 8</b></summary>
 
 </details>
