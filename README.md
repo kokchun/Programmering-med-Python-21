@@ -6,6 +6,7 @@ This is a fundamental Python course with focus of learning important programming
 ## Contents
   - [Schedule](#schedule)
   - [Resources](#resources)
+    - [Study week 1](#week1)
 
 ## Schedule
 
@@ -14,16 +15,17 @@ This is a fundamental Python course with focus of learning important programming
 <summary id="schedule">Click to see/hide schedule</summary>
 
 | Study week<sup>[1](#fn1)</sup> | Content                                                |
-| ------------------------------ | ------------------------------------------------------ |
-| 1                              | installation, git, vscode, pipenv, variables, I/O      |
-| 2                              | if, while, for, lists                                  |
-| 3                              | random module, strings, functions                      |
-| 4                              | lab                                                    |
-| 5                              | exception handling, file handling, dictionary          |
-| 6                              | OOP: class, object, attributes, properties, decorators |
-| 7                              | OOP: inheritance, polymorphism, docstring              |
-| 8                              | repetition                                             |
-| 9                              | written exam                                           |
+| :----------------------------: | ------------------------------------------------------ |
+|               1                | installation, git, vscode, pipenv, variables, I/O      |
+|               2                | if, while, for, lists, lab 1                           |
+|               3                | random module, strings, functions                      |
+|               4                | lab                                                    |
+|               5                | exception handling, file handling, dictionary          |
+|               6                | OOP: class, object, attributes, properties, decorators |
+|               7                | OOP: inheritance, polymorphism, docstring              |
+|               8                | repetition                                             |
+|               9                | written exam                                           |
+
 <a id="fn1">1 </a> <sub>Study weeks are numbered from 1 when the course starts, and are usually not normal weeks [↩](#schedule)</sub>
 
 </details>
@@ -34,7 +36,7 @@ When installing softwares, unless anything else is stated below, just click next
 
 <details open>
 
-<summary><b>Study week 1</b></summary>
+<summary><b id = "week1">Study week 1</b></summary>
 
 Setup :wrench:
 
@@ -59,10 +61,6 @@ Video guides :video_camera:
 
 [git_tutorial]: https://www.youtube.com/watch?v=USjZcfj8yxE
 
-- Learn [pipenv][pipenv] to manage packages and environments
-
-[pipenv]: https://www.youtube.com/watch?v=6Qmnh5C4Pmo
-
 - When entering the commands `python` or `pip` in command prompt or terminal and there is an error :x:, you need to set the path manually
   - set path in [Windows][windows_path]
   - set path in [Mac/Linux][mac_path]
@@ -79,7 +77,7 @@ Video guides :video_camera:
 Theory :book:
 - [Variables - w3schools][w3var]
 - [Input - w3schools][w3input]
-- [pipenv - Real Python][real_pipenv]
+
 
 [w3var]: https://www.w3schools.com/python/python_variables.asp
 [w3input]: https://www.w3schools.com/python/python_user_input.asp
@@ -93,3 +91,44 @@ Exercises :running:
 
 
 [if_else]: https://www.youtube.com/watch?v=AWek49wXGzI&t=155s
+
+
+
+<details>
+
+<summary><b>Study week 2</b></summary>
+
+</details>
+
+
+<details>
+
+<summary><b>Study week 3</b></summary>
+
+- Learn [pipenv][pipenv] to manage packages and environments
+
+[pipenv]: https://www.youtube.com/watch?v=6Qmnh5C4Pmo
+
+- [pipenv - Real Python][real_pipenv]
+</details>
+
+
+<details>
+
+<summary><b>Study week 4</b></summary>
+
+</details>
+
+
+<details>
+
+<summary><b>Study week 5</b></summary>
+
+</details>
+
+
+<details>
+
+<summary><b>Study week 6</b></summary>
+
+</details>
