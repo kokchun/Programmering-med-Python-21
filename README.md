@@ -23,16 +23,16 @@ This is a fundamental Python course with focus of learning important programming
   
 <summary id="schedule">Click to see/hide schedule</summary>
 
-| Study week<sup>[1](#fn1)</sup> | Content                                                     |
-| :----------------------------: | ----------------------------------------------------------- |
-|               1                | installation, git, vscode, variables, I/O, if, while, lab 1 |
-|               2                | for, lists, random module                                   |
-|               3                | strings, functions, pipenv, lab 2                           |
-|               4                | exception handling, file handling, dictionary, lab 2        |
-|               5                | OOP: class, object, attributes, properties, decorators      |
-|               6                | OOP: inheritance, polymorphism, docstring                   |
-|               7                | repetition                                                  |
-|               8                | written exam                                                |
+| Study week<sup>[1](#fn1)</sup> | Content                                                       |
+| :----------------------------: | ------------------------------------------------------------- |
+|               1                | installation, git, vscode, variables, I/O, if, while, lab 1   |
+|               2                | for, lists, random module                                     |
+|               3                | strings, functions, pipenv, lab 2                             |
+|               4                | exception handling, file handling, dictionary, lab 2          |
+|               5                | OOP: class, object, attributes, properties, decorators, lab 3 |
+|               6                | OOP: inheritance, polymorphism, docstring, lab 3              |
+|               7                | repetition                                                    |
+|               8                | written exam                                                  |
 
 
 <a id="fn1">1 </a> <sub>Study weeks are numbered from 1 when the course starts, and are usually not normal weeks [↩](#schedule)</sub>
@@ -41,7 +41,7 @@ This is a fundamental Python course with focus of learning important programming
 
 
 ## Resources
-When installing softwares, unless anything else is stated below, just click next. Open up resources for 
+When installing softwares, unless anything else is stated below, just click next. Many exercises and lecture materials are in form of jupyter notebooks with .ipynb extensions. Sometimes GitHub may not load them correctly, you can use 
 
 <details open>
 
