@@ -41,7 +41,12 @@ This is a fundamental Python course with focus of learning important programming
 
 
 ## Resources
-When installing softwares, unless anything else is stated below, just click next. Many exercises and lecture materials are in form of jupyter notebooks with .ipynb extensions. Sometimes GitHub may not load them correctly, you can use 
+Many exercises and lecture materials are in form of Jupyter notebooks with **.ipynb** extensions. Sometimes GitHub may not load them correctly for preview, then you can use [notebook buddy][notebook_buddy], which is an addon to Chrome to open it either in nbviewer for previewing or in Colab for editing. Alternatively, you can go to [jupyter nbviewer][nbviewer], and paste the link to the notebook for previewing. A tip when working with exercises is to create your own notebook (.ipynb) or script files (.py). 
+
+[nbviewer]: https://nbviewer.jupyter.org/
+[notebook_buddy]: https://chrome.google.com/webstore/detail/notebook-buddy/kmhoiofjdpbiodaggadcibdkicfgplcl
+
+When installing softwares, unless anything else is stated below, just click next. 
 
 <details open>
 
