@@ -1,19 +1,19 @@
-# Programmering med Python
+# Programmering med Python (2021)
 This is a fundamental Python course with focus of learning important programming concepts in order to solve various problems by writing Python programs. All lecture codes can be found in the course [Github repo][ghr].
 
 [ghr]: https://github.com/kokchun/Programmering-med-Python
 
 ## Contents
   - [Schedule](#schedule)
-  - [Resources](#resources) <details> <summary> Study weeks </summary>
-    - [Study week 1](#week1)
-    - [Study week 2](#week2)
-    - [Study week 3](#week3)
-    - [Study week 4](#week4)
-    - [Study week 5](#week5)
-    - [Study week 6](#week6)
-    - [Study week 7](#week7)
-    - [Study week 8](#week8)
+  - [Resources](#resources) <details> <summary> Weeks </summary>
+    - [Week 34](#week1)
+    - [Week 35](#week2)
+    - [Week 36](#week3)
+    - [Week 37](#week4)
+    - [Week 38](#week5)
+    - [Week 39](#week6)
+    - [Week 40](#week7)
+    - [Week 41](#week8)
 
 </details>
 
@@ -22,20 +22,21 @@ This is a fundamental Python course with focus of learning important programming
 <details open>
   
 <summary id="schedule">Click to see/hide schedule</summary>
+<!-- <sup>[1](#fn1)</sup> -->
 
-| Study week<sup>[1](#fn1)</sup> | Content                                                       |
-| :----------------------------: | ------------------------------------------------------------- |
-|               1                | installation, git, vscode, variables, I/O, if, while, lab 1   |
-|               2                | for, lists, random module                                     |
-|               3                | strings, functions, pipenv, lab 2                             |
-|               4                | exception handling, file handling, dictionary, lab 2          |
-|               5                | OOP: class, object, attributes, properties, decorators, lab 3 |
-|               6                | OOP: inheritance, polymorphism, docstring, lab 3              |
-|               7                | repetition                                                    |
-|               8                | written exam                                                  |
+| Week  | Content                                                       |
+| :---: | ------------------------------------------------------------- |
+|  34   | installation, git, vscode, variables, I/O, if, while, lab 1   |
+|  35   | for, lists, random module                                     |
+|  36   | strings, functions, pipenv, lab 2                             |
+|  37   | exception handling, file handling, dictionary, lab 2          |
+|  38   | OOP: class, object, attributes, properties, decorators, lab 3 |
+|  39   | OOP: inheritance, polymorphism, docstring, lab 3              |
+|  40   | repetition                                                    |
+|  41   | written exam                                                  |
 
 
-<a id="fn1">1 </a> <sub>Study weeks are numbered from 1 when the course starts, and are usually not normal weeks [↩](#schedule)</sub>
+<!-- <a id="fn1">1 </a> <sub>Study weeks are numbered from 1 when the course starts, and are usually not normal weeks [↩](#schedule)</sub> -->
 
 </details>
 
@@ -50,7 +51,7 @@ When installing softwares, unless anything else is stated below, just click next
 
 <details open>
 
-<summary id = "week1"><b>Study week 1</b></summary>
+<summary id = "week1"><b>Week 34</b></summary>
 
 Setup :wrench:
 
@@ -98,8 +99,13 @@ Theory :book:
 [real_pipenv]: https://realpython.com/pipenv-guide/
 
 Exercises :running:
-- Exercises can be found here (link)
+- [Count with Python][exercise_count]
+- [if statement][exercise_if]
+- [while statement][exercise_while]
 
+[exercise_count]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/00-Count-with-Python-exercise.ipynb
+[exercise_if]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/01-if-statement-exercise.ipynb 
+[exercise_while]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/02-while-statement-exercise.ipynb
 
 </details>
 
@@ -110,14 +116,14 @@ Exercises :running:
 
 <details>
 
-<summary id = "week2"><b >Study week 2</b></summary>
+<summary id = "week2"><b >Week 35</b></summary>
 
 </details>
 
 
 <details>
 
-<summary id = "week3"><b >Study week 3</b></summary>
+<summary id = "week3"><b >Week 36</b></summary>
 - Learn [pipenv][pipenv] to manage packages and environments
 
 [pipenv]: https://www.youtube.com/watch?v=6Qmnh5C4Pmo
@@ -128,32 +134,34 @@ Exercises :running:
 
 <details>
 
-<summary id = "week4"><b >Study week 4</b></summary>
+<summary id = "week4"><b >Week 37</b></summary>
 
 </details>
 
 
 <details>
 
-<summary id = "week5"><b >Study week 5</b></summary>
+<summary id = "week5"><b >Week 38</b></summary>
 
 </details>
 
 
 <details>
 
-<summary id = "week6"><b >Study week 6</b></summary>
+<summary id = "week6"><b >Week 39</b></summary>
 
 </details>
 
 <details>
 
-<summary id = "week7"><b >Study week 7</b></summary>
+<summary id = "week7"><b >Week 40</b></summary>
 
 </details>
 
 <details>
 
-<summary id = "week8"><b >Study week 8</b></summary>
+<summary id = "week8"><b >Week 41</b></summary>
+
+Exam
 
 </details>
