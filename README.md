@@ -1,7 +1,7 @@
 # Programmering med Python (2021)
 This is a fundamental Python course with focus of learning important programming concepts in order to solve various problems by writing Python programs. All lecture codes can be found in the course [Github repo][ghr].
 
-[ghr]: https://github.com/kokchun/Programmering-med-Python
+[ghr]: https://github.com/kokchun/Programmering-med-Python-21
 
 ## Contents
   - [Schedule](#schedule)
