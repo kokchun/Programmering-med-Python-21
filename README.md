@@ -118,6 +118,11 @@ Exercises :running:
 
 <summary id = "week2"><b >Week 35</b></summary>
 
+Exercises :running:
+- [for statement][exercise_for]
+
+[exercise_for]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/03-for-statement-exercise.ipynb
+
 </details>
 
 
