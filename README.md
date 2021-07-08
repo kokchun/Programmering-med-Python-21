@@ -27,8 +27,8 @@ This is a fundamental Python course with focus of learning important programming
 | Week  | Content                                                       |
 | :---: | ------------------------------------------------------------- |
 |  34   | installation, git, vscode, variables, I/O, if, while, lab 1   |
-|  35   | for, lists, random module                                     |
-|  36   | strings, functions, pipenv, lab 2                             |
+|  35   | for, lists, random, matplotlib, pipenv                        |
+|  36   | strings, functions, lab 2                                     |
 |  37   | exception handling, file handling, dictionary, lab 2          |
 |  38   | OOP: class, object, attributes, properties, decorators, lab 3 |
 |  39   | OOP: inheritance, polymorphism, docstring, lab 3              |
