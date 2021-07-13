@@ -35,9 +35,6 @@ This is a fundamental Python course with focus of learning important programming
 |  40   | repetition                                                    |
 |  41   | written exam                                                  |
 
-
-<!-- <a id="fn1">1 </a> <sub>Study weeks are numbered from 1 when the course starts, and are usually not normal weeks [↩](#schedule)</sub> -->
-
 </details>
 
 
@@ -83,20 +80,22 @@ Video guides :video_camera:
 [windows_path]: https://www.youtube.com/watch?v=dj5oOPaeIqI 
 [mac_path]: https://www.youtube.com/watch?v=PUIE7CPANfo
 
-- Learn [variables][variables] in Python
-- Learn [input][input] in Python
+- Learn [variables][variables] to store data
+- Learn [input][input] to let user input to the program
+- Learn [while statement][while_video] to repeat code with given condition
 
+[while_video]: https://www.youtube.com/watch?v=6TEGxJXLAWQ
 [variables]: https://www.youtube.com/watch?v=Z1Yd7upQsXY&t=470s
 [input]: https://www.youtube.com/watch?v=4OX49nLNPEE
 
 Theory :book:
 - [Variables - w3schools][w3var]
 - [Input - w3schools][w3input]
+- [while - w3schools][w3while]
 
-
+[w3while]: https://www.w3schools.com/python/python_while_loops.asp
 [w3var]: https://www.w3schools.com/python/python_variables.asp
 [w3input]: https://www.w3schools.com/python/python_user_input.asp
-[real_pipenv]: https://realpython.com/pipenv-guide/
 
 Exercises :running:
 - [Count with Python][exercise_count]
@@ -106,6 +105,10 @@ Exercises :running:
 [exercise_count]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/00-Count-with-Python-exercise.ipynb
 [exercise_if]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/01-if-statement-exercise.ipynb 
 [exercise_while]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/02-while-statement-exercise.ipynb
+
+Lab 1
+- Deadline friday week 34  :hourglass_flowing_sand:
+
 
 </details>
 
@@ -118,11 +121,38 @@ Exercises :running:
 
 <summary id = "week2"><b >Week 35</b></summary>
 
+Video guides :video_camera:
+- Learn [for statement][for_video] to efficiently repeat code
+- Learn [lists][lists_video] for organizing data
+- Learn [list comprehension][list_comp_vid] for efficient and clean code
+- Learn [pipenv][pipenv] to manage packages and environments
+- Learn [matplotlib][matplot_video] to plot graphs
+
+[matplot_video]: https://www.youtube.com/watch?v=nzKy9GY12yo
+
+[for_video]: https://www.youtube.com/watch?v=OnDr4J2UXSA
+
+[pipenv]: https://www.youtube.com/watch?v=6Qmnh5C4Pmo
+
+[lists_video]: https://www.youtube.com/watch?v=ohCDWZgNIU0&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=14
+
+[list_comp_vid]: https://www.youtube.com/watch?v=AhSvKGTh28Q&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=22
+
+
+Theory
+- [pipenv - Real Python][real_pipenv]
+- [for - w3schools][w3for]
+- [list - w3schools][w3list]
+- [matplotlib - w3schools][w3matplot]
+
+[w3matplot]: https://www.w3schools.com/python/matplotlib_intro.asp
+[w3list]: https://www.w3schools.com/python/python_lists.asp
+[w3for]: https://www.w3schools.com/python/python_for_loops.asp
+[real_pipenv]: https://realpython.com/pipenv-guide/
+
 Exercises :running:
 - [for statement][exercise_for]
 - [list][exercise_list]
-
-
 
 [exercise_for]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/03-for-statement-exercise.ipynb
 
@@ -131,20 +161,76 @@ Exercises :running:
 </details>
 
 
-<details>
+<details open>
 
 <summary id = "week3"><b >Week 36</b></summary>
-- Learn [pipenv][pipenv] to manage packages and environments
 
-[pipenv]: https://www.youtube.com/watch?v=6Qmnh5C4Pmo
+Video guides :video_camera:
+- Learn [functions][func_vid] to organize and reuse code
+- Learn [strings][string_vid] to work with text
+- Learn [f-string][f_string_vid] to nicely format strings
 
-- [pipenv - Real Python][real_pipenv]
+[func_vid]: https://www.youtube.com/watch?v=NE97ylAnrz4
+[string_vid]: https://www.youtube.com/watch?v=k9TUPpGqYTo
+[f_string_vid]: https://www.youtube.com/watch?v=nghuHvKLhJA
+
+Theory :book:
+- [strings - w3schools][w3str]
+- [functions - w3schools][w3func]
+
+[w3str]: https://www.w3schools.com/python/python_strings.asp
+[w3func]: https://www.w3schools.com/python/python_functions.asp
+
+Exercises :running:
+- [strings][str_exercise]
+- [functions][func_exercise]
+
+[str_exercise]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/05-strings-exercise.ipynb
+
+[func_exercise]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/06-functions-exericse.ipynb
+
+Lab 2
+- deadline week 37 friday
+
 </details>
 
 
-<details>
+<details open>
 
 <summary id = "week4"><b >Week 37</b></summary>
+
+Video guides :video_camera:
+- Learn [exceptions][except_vid] for error handling
+- Learn [files][file_vid] for reading and writing to files
+- Learn [dictionary][dict_vid] for storing and accessing data using key-value pairs
+
+
+[except_vid]: https://www.youtube.com/watch?v=nlCKrKGHSSk&t=1s
+[file_vid]: https://www.youtube.com/watch?v=4mX0uPQFLDU
+[dictionary]: https://www.youtube.com/watch?v=XCcpzWs-CI4
+
+Theory :book:
+- [exception - w3schools][w3except] 
+- [file handling - real python][real_files]
+- [dictionary - w3schools][w3dict]
+
+[w3dict]: https://www.w3schools.com/python/python_dictionaries.asp
+[w3except]: https://www.w3schools.com/python/python_try_except.asp
+[real_files]: https://realpython.com/read-write-files-python/
+
+Exercises :running:
+- [exception][except_exer]
+- [file handling][file_exer]
+- [dictionary][dict_exer]
+
+[except_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/07-exception-exercise.ipynb
+
+[file_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/08-file-handling.ipynb
+
+[dict_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/09-dictionary-exercises.ipynb
+
+Lab 2
+- deadline week 37 friday
 
 </details>
 
@@ -153,6 +239,12 @@ Exercises :running:
 
 <summary id = "week5"><b >Week 38</b></summary>
 
+Video guides :video_camera:
+
+Theory :book:
+
+Exercises :running:
+
 </details>
 
 
@@ -160,11 +252,23 @@ Exercises :running:
 
 <summary id = "week6"><b >Week 39</b></summary>
 
+Video guides :video_camera:
+
+Theory :book:
+
+Exercises :running:
+
 </details>
 
 <details>
 
 <summary id = "week7"><b >Week 40</b></summary>
+
+Video guides :video_camera:
+
+Theory :book:
+
+Exercises :running:
 
 </details>
 
