@@ -207,7 +207,7 @@ Video guides :video_camera:
 
 [except_vid]: https://www.youtube.com/watch?v=nlCKrKGHSSk&t=1s
 [file_vid]: https://www.youtube.com/watch?v=4mX0uPQFLDU
-[dictionary]: https://www.youtube.com/watch?v=XCcpzWs-CI4
+[dict_vid]: https://www.youtube.com/watch?v=XCcpzWs-CI4
 
 Theory :book:
 - [exception - w3schools][w3except] 
@@ -235,15 +235,30 @@ Lab 2
 </details>
 
 
-<details>
+<details open>
 
 <summary id = "week5"><b >Week 38</b></summary>
 
 Video guides :video_camera:
+- Learn [Classes and objects][class_vid] for code organization and reusability 
+- Continue on [classes and objects][class_vid2]
+
+[class_vid]: https://www.youtube.com/watch?v=8yjkWGRlUmY
+[class_vid2]: https://www.youtube.com/watch?v=4dqlSk_RPmI
+
 
 Theory :book:
+- [OOP - Real Python][OOP_real]
+- [OOP - w3schools][w3OOP]
+
+[OOP_real]: https://realpython.com/python3-object-oriented-programming/
+[w3OOP]: https://www.w3schools.com/python/python_classes.asp
 
 Exercises :running:
+
+- [OOP][OOP_exer]
+
+[OOP_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/10-OOP-basic-exercise.ipynb
 
 </details>
 
