@@ -24,16 +24,16 @@ This is a fundamental Python course with focus of learning important programming
 <summary id="schedule">Click to see/hide schedule</summary>
 <!-- <sup>[1](#fn1)</sup> -->
 
-| Week  | Content                                                       |
-| :---: | ------------------------------------------------------------- |
-|  34   | installation, git, vscode, variables, I/O, if, while, lab 1   |
-|  35   | for, lists, random, matplotlib, pipenv                        |
-|  36   | strings, functions, lab 2                                     |
-|  37   | exception handling, file handling, dictionary, lab 2          |
-|  38   | OOP: class, object, attributes, properties, decorators, lab 3 |
-|  39   | OOP: inheritance, polymorphism, docstring, lab 3              |
-|  40   | repetition                                                    |
-|  41   | written exam                                                  |
+|     Week     | Content                                                       |
+| :----------: | ------------------------------------------------------------- |
+| [34](#week1) | installation, git, vscode, variables, I/O, if, while, lab 1   |
+| [35](#week2) | for, lists, random, matplotlib, pipenv                        |
+| [36](#week3) | strings, functions, lab 2                                     |
+| [37](#week4) | exception handling, file handling, dictionary, lab 2          |
+| [38](#week5) | OOP: class, object, attributes, properties, decorators, lab 3 |
+| [39](#week6) | OOP: inheritance, polymorphism, docstring, lab 3              |
+| [40](#week7) | repetition                                                    |
+| [41](#week8) | written exam                                                  |
 
 </details>
 
