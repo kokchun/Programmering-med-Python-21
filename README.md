@@ -243,8 +243,8 @@ Video guides :video_camera:
 - Learn [Classes and objects][class_vid] for code organization and reusability 
 - Continue on [classes and objects][class_vid2]
 
-[class_vid]: https://www.youtube.com/watch?v=8yjkWGRlUmY
-[class_vid2]: https://www.youtube.com/watch?v=4dqlSk_RPmI
+[class_vid]: https://www.youtube.com/watch?v=wfcWRAxRVBA
+[class_vid2]: https://www.youtube.com/watch?v=WOwi0h_-dfA
 
 
 Theory :book:
