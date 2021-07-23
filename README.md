@@ -25,7 +25,7 @@ This is a fundamental Python course with focus of learning important programming
 
 For detailed time schedule [click here][time_sched]
 
-[time_sched]: 
+[time_sched]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/ScheduleAI21.md
 
 |     Week     | Content                                                       |
 | :----------: | ------------------------------------------------------------- |
