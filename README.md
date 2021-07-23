@@ -22,7 +22,10 @@ This is a fundamental Python course with focus of learning important programming
 <details open>
   
 <summary id="schedule">Click to see/hide schedule</summary>
-<!-- <sup>[1](#fn1)</sup> -->
+
+For detailed time schedule [click here][time_sched]
+
+[time_sched]: 
 
 |     Week     | Content                                                       |
 | :----------: | ------------------------------------------------------------- |
