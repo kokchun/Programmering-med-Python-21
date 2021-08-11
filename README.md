@@ -92,10 +92,12 @@ Video guides :video_camera:
 [input]: https://www.youtube.com/watch?v=4OX49nLNPEE
 
 Theory :book:
+- [Github repo tutorial][git_repo_tutorial]
 - [Variables - w3schools][w3var]
 - [Input - w3schools][w3input]
 - [while - w3schools][w3while]
 
+[git_repo_tutorial]: https://github.com/niklas-hjelm/Programmering-med-C-Sharp/blob/main/assets/newRepo.md
 [w3while]: https://www.w3schools.com/python/python_while_loops.asp
 [w3var]: https://www.w3schools.com/python/python_variables.asp
 [w3input]: https://www.w3schools.com/python/python_user_input.asp
