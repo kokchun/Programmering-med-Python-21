@@ -3,7 +3,7 @@ This is a fundamental Python course with focus of learning important programming
 
 [ghr]: https://github.com/kokchun/Programmering-med-Python-21
 
-## Contents
+<!-- ## Contents
   - [Schedule](#schedule)
   - [Resources](#resources) <details> <summary> Weeks </summary>
     - [Week 34](#week1)
@@ -15,7 +15,7 @@ This is a fundamental Python course with focus of learning important programming
     - [Week 40](#week7)
     - [Week 41](#week8)
 
-</details>
+</details> -->
 
 ## Schedule
 
@@ -23,7 +23,7 @@ This is a fundamental Python course with focus of learning important programming
   
 <summary id="schedule">Click to see/hide schedule</summary>
 
-For detailed time schedule [click here][time_sched]
+For time schedule [click here][time_sched]
 
 [time_sched]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/ScheduleAI21.md
 
@@ -102,6 +102,11 @@ Theory :book:
 [w3var]: https://www.w3schools.com/python/python_variables.asp
 [w3input]: https://www.w3schools.com/python/python_user_input.asp
 
+Lecture notes :mortar_board:
+- [Input-output, variables](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L0-input-output.ipynb)
+- [if-statement](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L1-if-statements.ipynb)
+- [while loop](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L2-while-statement.ipynb)
+
 Exercises :running:
 - [Count with Python][exercise_count]
 - [if statement][exercise_if]
@@ -155,6 +160,10 @@ Theory
 [w3for]: https://www.w3schools.com/python/python_for_loops.asp
 [real_pipenv]: https://realpython.com/pipenv-guide/
 
+Lecture notes :mortar_board:
+- [for loop](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L3-for-statement.ipynb)
+- [lists](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L4-lists.ipynb)
+
 Exercises :running:
 - [for statement][exercise_for]
 - [list][exercise_list]
@@ -195,7 +204,7 @@ Exercises :running:
 [func_exercise]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/06-functions-exericse.ipynb
 
 Lab 2
-- deadline week 37 friday
+- deadline week 37 friday :hourglass_flowing_sand:
 
 </details>
 
@@ -235,7 +244,7 @@ Exercises :running:
 [dict_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/09-dictionary-exercises.ipynb
 
 Lab 2
-- deadline week 37 friday
+- deadline week 37 friday :hourglass_flowing_sand:
 
 </details>
 
