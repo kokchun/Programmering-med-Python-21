@@ -1,5 +1,7 @@
 # Week 38 - Resources
 
+[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+
 ## Video guides :video_camera:
 - Learn [Classes and objects][class_vid] for code organization and reusability 
 - Continue on [classes and objects][class_vid2]

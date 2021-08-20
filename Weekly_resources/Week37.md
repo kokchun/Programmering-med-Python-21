@@ -1,5 +1,7 @@
 # Week 37 - Resources
 
+[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+
 ## Video guides :video_camera:
 - Learn [exceptions][except_vid] for error handling
 - Learn [files][file_vid] for reading and writing to files

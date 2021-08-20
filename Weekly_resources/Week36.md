@@ -1,5 +1,7 @@
 # Week 36  - Resources
 
+[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+
 ## Video guides :video_camera:
 - Learn [functions][func_vid] to organize and reuse code
 - Learn [strings][string_vid] to work with text

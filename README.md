@@ -25,23 +25,23 @@ For time schedule [click here][time_sched]
 
 |     Week     | Content                                                       |
 | :----------: | ------------------------------------------------------------- |
-| [34][week1] | installation, git, vscode, variables, I/O, if, while, lab 1   |
-| [35][week2] | for, lists, random, matplotlib, pipenv                        |
-| [36][week3] | strings, functions, lab 2                                     |
-| [37][week4] | exception handling, file handling, dictionary, lab 2          |
-| [38][week5] | OOP: class, object, attributes, properties, decorators, lab 3 |
-| [39][week6] | OOP: inheritance, polymorphism, docstring, lab 3              |
-| [40][week7] | repetition                                                    |
-| [41][week8] | written exam                                                  |
+| [Week 34][week1] | installation, git, vscode, variables, I/O, if, while, lab 1   |
+| [Week 35][week2] | for, lists, random, matplotlib, pipenv                        |
+| [Week 36][week3] | strings, functions, lab 2                                     |
+| [Week 37][week4] | exception handling, file handling, dictionary, lab 2          |
+| [Week 38][week5] | OOP: class, object, attributes, properties, decorators, lab 3 |
+| [Week 39][week6] | OOP: inheritance, polymorphism, docstring, lab 3              |
+| [Week 40][week7] | repetition                                                    |
+| [Week 41][week8] | written exam                                                  |
 
-[week1]: 
-[week2]:
-[week3]: 
-[week4]:
-[week5]:
-[week6]:
-[week7]:
-[week8]:
+[week1]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week34.md
+[week2]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week35.md
+[week3]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week36.md
+[week4]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week37.md
+[week5]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week38.md
+[week6]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week39.md 
+[week7]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week40.md
+[week8]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week41.md
 
 
 ## Resources
@@ -51,6 +51,9 @@ Many exercises and lecture materials are in form of Jupyter notebooks with **.ip
 [colab_addon]: https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=sv
 
 When installing softwares, unless anything else is stated in the resources, just click next. 
+
+[Check resources](https://github.com/kokchun/Programmering-med-Python-21/tree/main/Weekly_resources) 
+
 <!-- 
 <details open>
 

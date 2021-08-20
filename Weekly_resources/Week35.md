@@ -1,5 +1,7 @@
 # Week 35 - Resources
 
+[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+
 ## Video guides :video_camera:
 - Learn [for statement][for_video] to efficiently repeat code
 - Learn [lists][lists_video] for organizing data

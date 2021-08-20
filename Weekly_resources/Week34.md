@@ -1,5 +1,7 @@
 # Week 34 - Resources
 
+[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+
 ## Setup :wrench:
 
 - Download newest version of [Python here][pyt] and install it. Important to check :ballot_box_with_check: **add to path** in the installation. Make sure to have only **one** version of Python installed.
