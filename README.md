@@ -19,26 +19,29 @@ This is a fundamental Python course with focus of learning important programming
 
 ## Schedule
 
-<details open>
-  
-<summary id="schedule">Click to see/hide schedule</summary>
-
 For time schedule [click here][time_sched]
 
 [time_sched]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/ScheduleAI21.md
 
 |     Week     | Content                                                       |
 | :----------: | ------------------------------------------------------------- |
-| [34](#week1) | installation, git, vscode, variables, I/O, if, while, lab 1   |
-| [35](#week2) | for, lists, random, matplotlib, pipenv                        |
-| [36](#week3) | strings, functions, lab 2                                     |
-| [37](#week4) | exception handling, file handling, dictionary, lab 2          |
-| [38](#week5) | OOP: class, object, attributes, properties, decorators, lab 3 |
-| [39](#week6) | OOP: inheritance, polymorphism, docstring, lab 3              |
-| [40](#week7) | repetition                                                    |
-| [41](#week8) | written exam                                                  |
+| [34][week1] | installation, git, vscode, variables, I/O, if, while, lab 1   |
+| [35][week2] | for, lists, random, matplotlib, pipenv                        |
+| [36][week3] | strings, functions, lab 2                                     |
+| [37][week4] | exception handling, file handling, dictionary, lab 2          |
+| [38][week5] | OOP: class, object, attributes, properties, decorators, lab 3 |
+| [39][week6] | OOP: inheritance, polymorphism, docstring, lab 3              |
+| [40][week7] | repetition                                                    |
+| [41][week8] | written exam                                                  |
 
-</details>
+[week1]: 
+[week2]:
+[week3]: 
+[week4]:
+[week5]:
+[week6]:
+[week7]:
+[week8]:
 
 
 ## Resources
@@ -47,11 +50,11 @@ Many exercises and lecture materials are in form of Jupyter notebooks with **.ip
 [nbviewer]: https://nbviewer.jupyter.org/
 [colab_addon]: https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=sv
 
-When installing softwares, unless anything else is stated below, just click next. 
-
+When installing softwares, unless anything else is stated in the resources, just click next. 
+<!-- 
 <details open>
 
-<summary id = "week1"><b>Week 34</b></summary>
+<summary id = "wesek1"><b>Week 34</b></summary>
 
 Setup :wrench:
 
@@ -125,11 +128,9 @@ Lab 1
 
 [if_else]: https://www.youtube.com/watch?v=AWek49wXGzI&t=155s
 
-
-
 <details open>
-
-<summary id = "week2"><b >Week 35</b></summary>
+ -->
+<!-- <summary id = "week2"><b >Week 35</b></summary>
 
 Video guides :video_camera:
 - Learn [for statement][for_video] to efficiently repeat code
@@ -206,10 +207,10 @@ Exercises :running:
 Lab 2
 - deadline week 37 friday :hourglass_flowing_sand:
 
-</details>
+</details> -->
 
 
-<details open>
+<!-- <details open>
 
 <summary id = "week4"><b >Week 37</b></summary>
 
@@ -244,9 +245,9 @@ Exercises :running:
 [dict_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/09-dictionary-exercises.ipynb
 
 Lab 2
-- deadline week 37 friday :hourglass_flowing_sand:
+- deadline week 37 friday :hourglass_flowing_sand: -->
 
-</details>
+<!-- </details>
 
 
 <details open>
@@ -274,10 +275,10 @@ Exercises :running:
 
 [OOP_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/10-OOP-basic-exercise.ipynb
 
-</details>
+</details> -->
 
 
-<details>
+<!-- <details>
 
 <summary id = "week6"><b >Week 39</b></summary>
 
@@ -287,9 +288,9 @@ Theory :book:
 
 Exercises :running:
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 
 <summary id = "week7"><b >Week 40</b></summary>
 
@@ -307,4 +308,4 @@ Exercises :running:
 
 Exam
 
-</details>
+</details> -->
