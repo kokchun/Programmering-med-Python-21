@@ -23,12 +23,12 @@ For time schedule [click here][time_sched]
 
 [time_sched]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/ScheduleAI21.md
 
-|     Week     | Content                                                       |
-| :----------: | ------------------------------------------------------------- |
+|       Week       | Content                                                       |
+| :--------------: | ------------------------------------------------------------- |
 | [Week 34][week1] | installation, git, vscode, variables, I/O, if, while, lab 1   |
 | [Week 35][week2] | for, lists, random, matplotlib, pipenv                        |
-| [Week 36][week3] | strings, functions, lab 2                                     |
-| [Week 37][week4] | exception handling, file handling, dictionary, lab 2          |
+| [Week 36][week3] | strings, functions, exception handling, lab 2                 |
+| [Week 37][week4] | file handling, dictionary, lab 2                              |
 | [Week 38][week5] | OOP: class, object, attributes, properties, decorators, lab 3 |
 | [Week 39][week6] | OOP: inheritance, polymorphism, docstring, lab 3              |
 | [Week 40][week7] | repetition                                                    |
