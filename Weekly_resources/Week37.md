@@ -20,13 +20,16 @@
 
 ## Lecture notes :mortar_board:
 
+- [file handling - lecture note](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L8-file-handling.ipynb)
+- [dictionary - lecture note](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L9-dictionary.ipynb)
+
 ## Exercises :running:
-- [file handling][file_exer]
-- [dictionary][dict_exer]
+- [file handling - exercise][file_exer]
+- [dictionary - exercise][dict_exer]
 
 [file_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/08-file-handling.ipynb
 
 [dict_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/09-dictionary-exercises.ipynb
 
 ## Lab 2
-- deadline week 37 friday :hourglass_flowing_sand:
+- deadline week 38 friday :hourglass_flowing_sand:
