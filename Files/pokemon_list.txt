@@ -1,4 +1,4 @@
-﻿1 Bulbasaur Gräs/Gift
+1 Bulbasaur Gräs/Gift
 2 Ivysaur Gräs/Gift
 3 Venusaur Gräs/Gift
 4 Charmander Eld
@@ -119,7 +119,7 @@
 119 Seaking Vatten
 120 Staryu Vatten
 121 Starmie Vatten/Psykisk
-122 Mr. 122
+122 Mr. Mime Psykisk
 123 Scyther Insekt/Flygande
 124 Jynx Is/Psykisk
 125 Electabuzz Elektrisk
