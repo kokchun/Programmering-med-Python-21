@@ -14,6 +14,8 @@
 - [OOP - w3schools][w3OOP]
 - [property][prop]
 - [type hints](https://realpython.com/lessons/type-hinting/)
+- [operator overloading](https://www.geeksforgeeks.org/operator-overloading-in-python/)
+- [polymorphism](https://www.programiz.com/python-programming/polymorphism)
 
 [OOP_real]: https://realpython.com/python3-object-oriented-programming/
 [w3OOP]: https://www.w3schools.com/python/python_classes.asp

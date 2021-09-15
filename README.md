@@ -24,16 +24,16 @@ For time schedule [click here][time_sched]
 
 [time_sched]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/ScheduleAI21.md
 
-|       Week       | Content                                                                  |
-| :--------------: | ------------------------------------------------------------------------ |
-| [Week 34][week1] | installation, git, vscode, variables, I/O, if, while, lab 1              |
-| [Week 35][week2] | for, lists, random, matplotlib, pipenv                                   |
-| [Week 36][week3] | strings, functions, exception handling, lab 2                            |
-| [Week 37][week4] | file handling, dictionary, lab 2                                         |
-| [Week 38][week5] | OOP: class, object, attributes, properties, decorators, docstring, lab 3 |
-| [Week 39][week6] | OOP: inheritance, polymorphism, lab 3                                    |
-| [Week 40][week7] | repetition                                                               |
-| [Week 41][week8] | written exam                                                             |
+|       Week       | Content                                                      |
+| :--------------: | ------------------------------------------------------------ |
+| [Week 34][week1] | installation, git, vscode, variables, I/O, if, while, lab 1  |
+| [Week 35][week2] | for, lists, random, matplotlib, pipenv                       |
+| [Week 36][week3] | strings, functions, exception handling, lab 2                |
+| [Week 37][week4] | file handling, dictionary, lab 2                             |
+| [Week 38][week5] | OOP: class, object, attributes, properties, docstring, lab 3 |
+| [Week 39][week6] | OOP: inheritance, polymorphism, unit testing, lab 3          |
+| [Week 40][week7] | repetition                                                   |
+| [Week 41][week8] | written exam                                                 |
 
 [week1]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week34.md
 [week2]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week35.md
