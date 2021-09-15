@@ -1,4 +1,5 @@
 # Programmering med Python (2021)
+
 This is a fundamental Python course with focus of learning important programming concepts in order to solve various problems by writing Python programs. All lecture codes can be found in the course [Github repo][ghr].
 
 [ghr]: https://github.com/kokchun/Programmering-med-Python-21
@@ -23,38 +24,38 @@ For time schedule [click here][time_sched]
 
 [time_sched]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/ScheduleAI21.md
 
-|       Week       | Content                                                       |
-| :--------------: | ------------------------------------------------------------- |
-| [Week 34][week1] | installation, git, vscode, variables, I/O, if, while, lab 1   |
-| [Week 35][week2] | for, lists, random, matplotlib, pipenv                        |
-| [Week 36][week3] | strings, functions, exception handling, lab 2                 |
-| [Week 37][week4] | file handling, dictionary, lab 2                              |
-| [Week 38][week5] | OOP: class, object, attributes, properties, decorators, lab 3 |
-| [Week 39][week6] | OOP: inheritance, polymorphism, docstring, lab 3              |
-| [Week 40][week7] | repetition                                                    |
-| [Week 41][week8] | written exam                                                  |
+|       Week       | Content                                                                  |
+| :--------------: | ------------------------------------------------------------------------ |
+| [Week 34][week1] | installation, git, vscode, variables, I/O, if, while, lab 1              |
+| [Week 35][week2] | for, lists, random, matplotlib, pipenv                                   |
+| [Week 36][week3] | strings, functions, exception handling, lab 2                            |
+| [Week 37][week4] | file handling, dictionary, lab 2                                         |
+| [Week 38][week5] | OOP: class, object, attributes, properties, decorators, docstring, lab 3 |
+| [Week 39][week6] | OOP: inheritance, polymorphism, lab 3                                    |
+| [Week 40][week7] | repetition                                                               |
+| [Week 41][week8] | written exam                                                             |
 
 [week1]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week34.md
 [week2]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week35.md
 [week3]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week36.md
 [week4]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week37.md
 [week5]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week38.md
-[week6]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week39.md 
+[week6]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week39.md
 [week7]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week40.md
 [week8]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Weekly_resources/Week41.md
 
-
 ## Resources
-Many exercises and lecture materials are in form of Jupyter notebooks with **.ipynb** extensions. Sometimes GitHub may not load them correctly for preview, then you can use [Open in Colab][colab_addon], which is an addon in Chrome to open the notebook in Colab. Alternatively, you can go to [jupyter nbviewer][nbviewer], and paste the link to the notebook for previewing. When working with exercises it is important that you create your own notebooks (.ipynb) or script files (.py). 
+
+Many exercises and lecture materials are in form of Jupyter notebooks with **.ipynb** extensions. Sometimes GitHub may not load them correctly for preview, then you can use [Open in Colab][colab_addon], which is an addon in Chrome to open the notebook in Colab. Alternatively, you can go to [jupyter nbviewer][nbviewer], and paste the link to the notebook for previewing. When working with exercises it is important that you create your own notebooks (.ipynb) or script files (.py).
 
 [nbviewer]: https://nbviewer.jupyter.org/
 [colab_addon]: https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=sv
 
-When installing softwares, unless anything else is stated in the resources, just click next. 
+When installing softwares, unless anything else is stated in the resources, just click next.
 
-[Check resources](https://github.com/kokchun/Programmering-med-Python-21/tree/main/Weekly_resources) 
+[Check resources](https://github.com/kokchun/Programmering-med-Python-21/tree/main/Weekly_resources)
 
-<!-- 
+<!--
 <details open>
 
 <summary id = "wesek1"><b>Week 34</b></summary>
@@ -65,15 +66,15 @@ Setup :wrench:
 
 [pyt]: https://www.python.org/downloads/
 
-- Download [Visual Studio Code here][vscode] and install it. 
+- Download [Visual Studio Code here][vscode] and install it.
 
 [vscode]: https://code.visualstudio.com/
 
-- Download [git here][git] and install it. 
+- Download [git here][git] and install it.
 
 [git]: https://git-scm.com/
 
-- Create an account on [GitHub][github]. 
+- Create an account on [GitHub][github].
 
 [github]: https://github.com/
 
@@ -86,7 +87,7 @@ Video guides :video_camera:
   - set path in [Windows][windows_path]
   - set path in [Mac/Linux][mac_path]
 
-[windows_path]: https://www.youtube.com/watch?v=dj5oOPaeIqI 
+[windows_path]: https://www.youtube.com/watch?v=dj5oOPaeIqI
 [mac_path]: https://www.youtube.com/watch?v=PUIE7CPANfo
 
 - Learn [variables][variables] to store data
@@ -119,7 +120,7 @@ Exercises :running:
 - [while statement][exercise_while]
 
 [exercise_count]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/00-Count-with-Python-exercise.ipynb
-[exercise_if]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/01-if-statement-exercise.ipynb 
+[exercise_if]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/01-if-statement-exercise.ipynb
 [exercise_while]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/02-while-statement-exercise.ipynb
 
 Lab 1
@@ -212,7 +213,6 @@ Lab 2
 
 </details> -->
 
-
 <!-- <details open>
 
 <summary id = "week4"><b >Week 37</b></summary>
@@ -228,7 +228,7 @@ Video guides :video_camera:
 [dict_vid]: https://www.youtube.com/watch?v=XCcpzWs-CI4
 
 Theory :book:
-- [exception - w3schools][w3except] 
+- [exception - w3schools][w3except]
 - [file handling - real python][real_files]
 - [dictionary - w3schools][w3dict]
 
@@ -258,7 +258,7 @@ Lab 2
 <summary id = "week5"><b >Week 38</b></summary>
 
 Video guides :video_camera:
-- Learn [Classes and objects][class_vid] for code organization and reusability 
+- Learn [Classes and objects][class_vid] for code organization and reusability
 - Continue on [classes and objects][class_vid2]
 
 [class_vid]: https://www.youtube.com/watch?v=wfcWRAxRVBA
@@ -279,7 +279,6 @@ Exercises :running:
 [OOP_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/10-OOP-basic-exercise.ipynb
 
 </details> -->
-
 
 <!-- <details>
 
