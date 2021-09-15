@@ -12,15 +12,19 @@
 ## Theory :book:
 - [OOP - Real Python][OOP_real]
 - [OOP - w3schools][w3OOP]
+- [property][prop]
+- [type hints](https://realpython.com/lessons/type-hinting/)
 
 [OOP_real]: https://realpython.com/python3-object-oriented-programming/
 [w3OOP]: https://www.w3schools.com/python/python_classes.asp
+[prop]: https://www.programiz.com/python-programming/property
+
 
 ## Lecture notes :mortar_board:
 
 
 ## Exercises :running:
 
-- [OOP][OOP_exer]
+- [OOP basics 1][OOP_exer]
 
 [OOP_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/10-OOP-basic-exercise.ipynb
