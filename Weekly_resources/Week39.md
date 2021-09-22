@@ -11,6 +11,7 @@
 
 - [modules - Python docs](https://www.w3schools.com/python/python_modules.asp)
 - [UML](https://python.astrotech.io/design-patterns/uml/class-diagram.html)
+- [theory about unit testing](https://en.wikipedia.org/wiki/Unit_testing)
 
 ## Lecture notes :mortar_board:
 
