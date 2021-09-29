@@ -15,7 +15,8 @@
 
 ## Lecture notes :mortar_board:
 
-- TODO: ADD LINK TO LECTURE NOTES
+- [Matplotlib](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/Lec13-Matplotlib.ipynb)
+- [Unit testing](https://github.com/kokchun/Programmering-med-Python-21/tree/main/Lectures/Lec14-unit%20testing)
 
 ## Software
 
@@ -24,3 +25,4 @@
 ## Exercises :running:
 
 - work with lab 3
+- unit test your fraction class  

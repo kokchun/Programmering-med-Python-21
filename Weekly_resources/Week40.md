@@ -2,12 +2,16 @@
 
 [Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
 
-## under construction
-
 ## Video guides :video_camera:
+
+See previous weeks
 
 ## Theory :book:
 
+See previous weeks
+
 ## Lecture notes :mortar_board:
+
+
 
 ## Exercises :running:
