@@ -12,6 +12,10 @@ See previous weeks
 
 ## Lecture notes :mortar_board:
 
-
+See previous weeks
 
 ## Exercises :running:
+
+- lab 3
+
+- TODO: link to övningsprov
